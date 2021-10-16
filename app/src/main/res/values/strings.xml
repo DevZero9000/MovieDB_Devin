@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="hit_api">Hit API</string>
+    <string name="title">Title</string>
+    <string name="Subtitle">Subtitle</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="genre">Genre</string>
+    <string name="duration">Duration</string>
+    <string name="rating">Rating</string>
+</resources>
